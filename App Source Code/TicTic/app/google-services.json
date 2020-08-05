@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242666609604",
+    "firebase_url": "https://hy-hello-9621c.firebaseio.com",
+    "project_id": "hy-hello-9621c",
+    "storage_bucket": "hy-hello-9621c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242666609604:android:f10b8b3ab59661943aa291",
+        "android_client_info": {
+          "package_name": "com.anand.musictok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242666609604-d5l9qpruppfe9bd8qcgrhrlc0euj5i69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anand.musictok",
+            "certificate_hash": "0fa082b2db753c291dbc6faf5b6fb484c893f045"
+          }
+        },
+        {
+          "client_id": "242666609604-djkn4gqbae1jp1dhl8vodlcnvs5rt98t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGt0wrQnnj1Y3bwEIE7_GAuS_PsLhWzEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242666609604-djkn4gqbae1jp1dhl8vodlcnvs5rt98t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
